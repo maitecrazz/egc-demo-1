@@ -17,3 +17,5 @@ git checkout <branchName>
 git merge <branchName>
 git remote add origin url
 git push -u origin nombreRama
+
+pruebaConflicto
